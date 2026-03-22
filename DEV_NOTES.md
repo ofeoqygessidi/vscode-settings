@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Added inline documentation for core functions
 - Verified compatibility with latest runtime version
+
+## 2026-03-22
+- Resolved deprecation warnings
